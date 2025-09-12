@@ -16,5 +16,11 @@
         "key": "TECHNOG",
         "expirydate": "15-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "1de0c2545926ac01",
+        "key": "BATAB",
+        "expirydate": "15-11-2025",
+        "Allowoffline": false
     }
 ]
